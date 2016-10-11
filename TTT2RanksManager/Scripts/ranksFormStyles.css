@@ -1,0 +1,18 @@
+﻿body {
+}
+.titleRow
+{
+    font-weight:bold;
+    background-color:blue;
+    color:white;
+}
+.fieldTitle
+{
+   font-weight:bold;
+}
+.sectionTitle
+{
+  background-color:#9900FF;
+  color:white;
+  font-weight:bold;
+}

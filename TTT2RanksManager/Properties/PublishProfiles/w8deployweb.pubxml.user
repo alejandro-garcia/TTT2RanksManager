@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/TTT2RanksManager.dll">
+      <publishTime>11/19/2014 05:39:10</publishTime>
+    </File>
+    <File Include="bin/TTT2RanksManager.pdb">
+      <publishTime>11/19/2014 05:39:10</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/11/2014 14:56:59</publishTime>
+    </File>
+    <File Include="FighterSelector.ascx">
+      <publishTime>09/14/2014 19:11:15</publishTime>
+    </File>
+    <File Include="HistoricoPeleas.aspx">
+      <publishTime>10/03/2014 19:25:32</publishTime>
+    </File>
+    <File Include="Images/calendar.gif">
+      <publishTime>08/08/2014 18:43:52</publishTime>
+    </File>
+    <File Include="RangoPeleador.aspx">
+      <publishTime>08/12/2014 12:12:09</publishTime>
+    </File>
+    <File Include="RegistroPeleas.aspx">
+      <publishTime>11/18/2014 21:31:24</publishTime>
+    </File>
+    <File Include="Scripts/jqDatePicker.js">
+      <publishTime>08/08/2014 18:45:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>08/08/2014 18:38:03</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>07/25/2014 13:37:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>07/25/2014 13:37:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>07/25/2014 13:37:22</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui.css">
+      <publishTime>08/08/2014 18:47:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui.js">
+      <publishTime>08/08/2014 18:37:13</publishTime>
+    </File>
+    <File Include="Scripts/ranksFormStyles.css">
+      <publishTime>08/10/2014 14:30:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/19/2014 05:41:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
